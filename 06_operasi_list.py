@@ -1,4 +1,4 @@
-# Contoh 1.6 - Operasi dasar pada list
+# Operasi dasar pada list
 data = [10, 20, 30]
 
 print(data[1])  # Mengakses indeks 1
