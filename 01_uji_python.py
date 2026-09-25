@@ -1,3 +1,3 @@
-# Contoh 1.1 - Uji lingkungan Python
+# Uji lingkungan Python
 print("Struktur Data dan Algoritma")
 print("Python siap digunakan")
