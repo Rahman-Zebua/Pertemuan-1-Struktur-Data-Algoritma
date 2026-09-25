@@ -1,4 +1,4 @@
-# Contoh 1.4 - Fungsi pencarian linear
+# Fungsi pencarian linear
 def cari(data, target):
     for i in range(len(data)):
         if data[i] == target:
