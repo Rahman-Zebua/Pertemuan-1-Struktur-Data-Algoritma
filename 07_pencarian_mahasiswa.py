@@ -1,4 +1,4 @@
-# Contoh 1.7 dan 1.8 - Pencarian data mahasiswa
+# Pencarian data mahasiswa
 
 # Pencarian menggunakan list
 mahasiswa_list = [
