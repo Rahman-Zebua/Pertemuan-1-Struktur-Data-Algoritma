@@ -1,4 +1,4 @@
-# Contoh 1.5 - Class Node
+# Class Node
 class Node:
     def __init__(self, data):
         self.data = data
