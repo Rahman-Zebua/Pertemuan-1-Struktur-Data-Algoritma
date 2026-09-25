@@ -1,4 +1,4 @@
-# Contoh 1.2 - Variabel, list, dan indeks
+# Variabel, list, dan indeks
 nilai = [80, 75, 90, 85]
 
 print(nilai)
